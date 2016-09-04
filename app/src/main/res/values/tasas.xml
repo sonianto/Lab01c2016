@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t0A5000Menos30dias">25%</string>
+    <string name="t0A5000Mas30dias">27.5%</string>
+    <string name="t5000A99999Menos30dias">30%</string>
+    <string name="t5000A99999Mas30dias">32.3%</string>
+    <string name="t99999Menos30dias">35%</string>
+    <string name="t99999Mas30dias">38.5%</string>
+
+</resources>
